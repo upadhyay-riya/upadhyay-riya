@@ -6,10 +6,7 @@ I am passionate about **Data Engineering**, **Machine Learning**, and **Cloud Co
 
 ### Data Engineering
 - **Languages**: Python, SQL
-- **Frameworks/Libraries**: Apache Spark, Hadoop, Airflow (Learning)
 - **Databases**: MySQL, PostgreSQL, MongoDB (Learning)
-- **ETL Tools**: Talend, Apache NiFi (Learning)
-- **Big Data Technologies**: Hive, Pig (Learning)
 
 ### Machine Learning
 - **Languages**: Python, R
