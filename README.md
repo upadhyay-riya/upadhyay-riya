@@ -10,7 +10,7 @@ I am passionate about **Data Engineering**, **Machine Learning**, and **Cloud Co
 
 ### Machine Learning
 - **Languages**: Python, R
-- **Libraries**: Scikit-Learn, TensorFlow, Keras, Pandas, NumPy
+- **Libraries**: Scikit-Learn, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib, Ploty
 - **Tools**: Jupyter Notebook, Google Colab
 
 ### Cloud Computing
@@ -20,7 +20,9 @@ I am passionate about **Data Engineering**, **Machine Learning**, and **Cloud Co
 
 ## 📈 GitHub Stats
 
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyay-riya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyay-riya&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyay-riya&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=upadhyay-riya&theme=radical&hide_border=true)
 
 ## 🌱 Currently Learning
 
