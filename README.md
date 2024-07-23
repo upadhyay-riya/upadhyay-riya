@@ -28,9 +28,7 @@ Passionate Data Engineering enthusiast with a growing expertise in Machine Learn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyay-riya&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upadhyay-riya&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyay-riya&theme=radical&hide_border=true" alt="upadhyay-riya's GitHub Stats" />
 
 ## 🌱 Current Focus
 
