@@ -42,6 +42,14 @@ Passionate Data Engineering enthusiast with a growing expertise in Machine Learn
 2. Obtain AWS and Azure certifications
 3. Master advanced data engineering methodologies
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=upadhyay-riya&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## 💡 Areas of Expertise
 
 - Data Engineering best practices
