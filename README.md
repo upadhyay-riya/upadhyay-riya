@@ -22,7 +22,7 @@ Passionate Data Engineering enthusiast with a growing expertise in Machine Learn
 - **Tools**: Jupyter Notebook, Google Colab
 
 ### Cloud Computing
-- **Platforms**: AWS, Azure, Google Cloud Platform (GCP)
+- **Platforms**: AWS Cloud Services, Azure Cloud Services
 - **Services**: EC2, S3, RDS, Lambda, Cloud Functions, App Engine
 - **DevOps Tools**: Docker, Kubernetes, Terraform (Learning)
 
