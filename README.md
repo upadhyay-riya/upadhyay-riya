@@ -6,7 +6,7 @@ Passionate Data Engineering enthusiast with a growing expertise in Machine Learn
 
 ## 🚀 Core Competencies
 
-- **Data Engineering**: Building robust data pipelines and ETL processes (Learning)
+- **Data Engineering**: Foucs on more complex data cleaning and visualization
 - **Machine Learning**: Developing predictive models and data-driven insights
 - **Cloud Computing**: Architecting scalable and efficient cloud solutions
 
