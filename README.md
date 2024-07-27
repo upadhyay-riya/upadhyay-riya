@@ -28,6 +28,8 @@ Passionate Data Engineering enthusiast with a growing expertise in Machine Learn
 
 ## 📊 GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=upadhyay-riya&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-readme-stats.vercel.app/api?username=upadhyay-riya&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="upadhyay-riya's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyay-riya&theme=radical&hide_border=true" alt="upadhyay-riya's GitHub Stats" />
 
 ## 🌱 Current Focus
